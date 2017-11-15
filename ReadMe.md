@@ -1,2 +1,1 @@
-This is my first repo and attemot at meeting the requirements for codeLouisville.
-10/23/17
+This is the ReadMe for the Code Louisville Web project.  I will figure out what to put in a ReadMe file and add it later. 
